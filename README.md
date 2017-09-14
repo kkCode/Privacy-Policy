@@ -16,7 +16,7 @@ Inscover may contain links to and from third party Apps of our business partners
 HOW OUR APP USES PERMISSIONS  ? 
 -Read the contents of your USB storage: This permission is used so that you can manage saved photos and videos. 
 
-- Modify or delete the contents of your USB storage: To view, delete, share photos and videos from Inscover application.  
+-Modify or delete the contents of your USB storage: To view, delete, share photos and videos from Inscover application.  
 
 -Adjust your wallpaper size: To fit wallpaper as per your device. 
 
